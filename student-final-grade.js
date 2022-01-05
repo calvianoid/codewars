@@ -10,4 +10,4 @@ function finalGrade(exam, projects) {
     }
 }
 
-console.log(finalGrade(90, 0));
+console.log(finalGrade(100, 10));
