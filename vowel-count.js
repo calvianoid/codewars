@@ -8,6 +8,8 @@ function getCount(str) {
         }
     });
     return vowelsCount;
+
+    // return (str.match(/[aeiou]/ig)||[]).length;
 }
 
 console.log(getCount("abracadabra"));
